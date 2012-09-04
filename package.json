@@ -1,0 +1,33 @@
+{
+	"name": "ranged",
+	"title": "Ranged",
+	"description": "jQuery plugin to create a draggable slider",
+	"version": "0.1",
+	"homepage": "https://github.com/yannickcr/Ranged",
+	"author": {
+		"name": "Yannick Croissant",
+		"url": "https://github.com/yannickcr"
+	},
+	"maintainers": [
+		{
+		"name": "Yannick Croissant",
+		"url": "https://github.com/yannickcr"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yannickcr/Ranged.git"
+	},
+	"bugs": {
+		"url": "https://github.com/yannickcr/Ranged/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/yannickcr/Ranged/blob/master/LICENSE"
+		}
+	],
+	"dependencies": {
+		"jquery": ">=1.7",
+	}
+}
