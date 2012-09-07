@@ -1,7 +1,7 @@
 Ranged
 =========
 
-Ranged is a jQuery plugin who allow you to easily create a draggable slider by extending a range input or any arbitrary element.
+Ranged is a jQuery plugin allowing you to easily create a draggable slider by extending a range input or any arbitrary element.
 
 How to Use
 =========
