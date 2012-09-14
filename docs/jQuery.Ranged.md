@@ -67,7 +67,7 @@ You can also target any arbitrary element, like a span.
 		}
 	});
 
-Then you can style the Ranged elements using CSS. You can find an example of CSS in the ["example" directory](https://github.com/viadeo/Ranged/blob/master/docs).
+Then you can style the Ranged elements using CSS. You can find an example of CSS in the ["example" directory](https://github.com/viadeo/Ranged/blob/master/example).
 
 By default the CSS classes are:
 
